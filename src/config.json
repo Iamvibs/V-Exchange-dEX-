@@ -1,0 +1,31 @@
+{
+  "31337": {
+    "exchange": {
+      "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+    },
+    "VIBS": {
+      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    },
+    "mETH": {
+      "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+    },
+    "mDAI": {
+      "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+    }
+  },
+  "80001": {
+    "exchange": {
+      "address": "0x793326035B1a181D16C331872c8E03AD2CaFb380"
+    },
+    "VIBS": {
+      "address": "0x52a3a42e8c06227d0B6db9782BbCD45D2c9C5679"
+    },
+    "mETH": {
+      "address": "0x33cBaF38CDEb1d367E2C4fD8810AFFA99a823ABd"
+    },
+    "mDAI": {
+      "address": "0xBe6881A51ef1E113e24E93FC804873B45A4D882E"
+    },
+    "explorerURL": "//mumbai.polygonscan.com/"
+  }
+}
